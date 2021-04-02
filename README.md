@@ -1,0 +1,2 @@
+# patel-coin
+crypto
